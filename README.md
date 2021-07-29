@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I am Ben. Thank you for visiting my GitHub page. I love to develop open source software and programming-education content, with a special love of GoLang, Typescript, and embedded systems. For an overview of the software I have written or contributed to, please see **here**. Or even better, if you really want to, head over to my [Github sponsor](https://github.com/sponsors/BenjaminPritchard) page :)
 
 <!--
 **BenjaminPritchard/BenjaminPritchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
