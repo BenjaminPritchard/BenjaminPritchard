@@ -1,6 +1,6 @@
 Hello, I am Ben; thank you for visiting my GitHub page.
 
-I am an embedded firmware engineer, yoga teacher and pianist. I am the original author of the [Van Gogh Flow Visualization Engine](https://benjaminpritchard.github.io/VanGoghFlow.github.io/), [The Kundalini Mirror-Image Piano](https://github.com/BenjaminPritchard/KundaliniPianoMirrorLinux), the [Mozart Transpiler Transposition Engine](https://github.com/BenjaminPritchard/bach-in-the-mirror/blob/main/mozart-compile.py/), a specially-prepared [symmetrically-inverted edition of the Bach Two Part Inventions](https://github.com/BenjaminPritchard/bach-in-the-mirror) (created with my Mozart Transpiler)... as well as many other projects. My entire portolio can be seen online here. 
+I am an embedded firmware engineer, yoga teacher and pianist. I am the original author of the [Van Gogh Flow Visualization Engine](https://benjaminpritchard.github.io/VanGoghFlow.github.io/), [The Kundalini Mirror-Image Piano](https://github.com/BenjaminPritchard/KundaliniPianoMirrorLinux), the [Mozart Transpiler Transposition Engine](https://github.com/BenjaminPritchard/bach-in-the-mirror/blob/main/mozart-compile.py/), a specially-prepared [symmetrically-inverted edition of the Bach Two Part Inventions](https://github.com/BenjaminPritchard/bach-in-the-mirror) (created with my Mozart Transpiler)... as well as many other projects. My entire portolio can be seen online [here](https://benjaminpritchard.github.io/). 
 
 Thanks for visiting; please have a nice day.
 
